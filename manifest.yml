@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: kevinyang
-  host: kevinyang
+  name: Robotcar
+  host: Robotcar
   disk_quota: 1024M
