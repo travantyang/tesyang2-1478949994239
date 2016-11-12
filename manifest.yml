@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: testyang
-  host: testyang
+  name: testyang2
+  host: testyang2
   disk_quota: 1024M
